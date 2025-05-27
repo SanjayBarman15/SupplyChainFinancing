@@ -1,6 +1,4 @@
 # Supply Chain Financing
-
-# Deployed ID: 0x3abaa66b764f8d2339261987b3627e2eb3dae67a81f5206a022b67f41594f90c
 ![alt text](image.png)
 
 ## Project Description
